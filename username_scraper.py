@@ -13,7 +13,7 @@ print(f'''{Fore.RED}
  ░▀▀░░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀▀░
  ░█▀▀░█▀▀░█▀▄░█▀█░█▀█░█▀▀░█▀▄
  ░▀▀█░█░░░█▀▄░█▀█░█▀▀░█▀▀░█▀▄
- ░▀▀▀░▀▀▀░▀░▀░▀░▀░▀░░░▀▀▀░▀░▀ {Fore.RESET}''')
+ ░▀▀▀░▀▀▀░▀░▀░▀░▀░▀░░░▀▀▀░▀░▀ {Fore.RESET} Username Edition''')
 
 TOKEN = input(f"{Fore.RED} Token: {Fore.RESET}")
 SERVER_ID = input(f"{Fore.RED} Server ID: {Fore.RESET}")
